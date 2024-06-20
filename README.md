@@ -1,4 +1,4 @@
-# Speaker.leison<br>
+# Speaker.leison for Global TV <br>
 
 ## Introduction
 Speaker.leison is a project designed to Manage GLobal TV Systems.<br> This application using AI based system and  checking errorrs in station , and speaking about the errorrs.<br>
@@ -28,13 +28,24 @@ To install and run this project locally, follow these steps:<br>
     ```
 
 ## Usage
-After installation, you can use the application by [explain how to use the application]. For example:
-- Open your browser and navigate to `http://localhost:3000`.
-- Follow the instructions on the screen to [what the user should do next].
+After installation, you can use the application by Background service. For example:
+run the app, first  you must publish the app, also  you need  install back server ad  first , which will send  package using UDP <br>
 
 ## Contributing
 Contributions are welcome! Please follow these steps to contribute:
 1. Fork the repository.
 2. Create a new branch (`git checkout -b feature-branch`).
 3. Make your changes.
-4. Commit your changes (`git commit -m 'Add
+4. Commit your changes (`git commit -m 'Add)
+5. 5. Push to the branch (`git push origin feature-branch`).
+6. Open a Pull Request.
+
+## License
+This project is licensed under the MIT License - contanct me  for licence : **aapkhazava22@gmail.com** <br>
+## Contact
+For any questions or suggestions, please contact:
+- **Author**: Guga Apkhazava
+- **Email**: guram.apkhazava908@ens.tsu.ge
+
+## Acknowledgments
+- You need to install  Back server add first  which will collect  the info about station and will send  it usiong UDP stream , for client
